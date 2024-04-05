@@ -1,6 +1,10 @@
 # Algorithims assignment
 
 #### By **Edwin Kimathi** {April 2024}
+
+### Calculations
+Calculations are under the Ms word (.docx) document. Download (view raw) it to view calculations
+
 ## Questiion 1 
 Write an efficient recursive algorithm that takes a sentence, starting index and ending index.
 The algorithm should then return a sentence that contain words between the starting and ending
