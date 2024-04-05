@@ -22,6 +22,6 @@ C language
 ## Support and contact details
 Incase of any queries you can reach me through email edwinkimathi226@gmail.com
 ### License
-This Project comes wit MIT License. View it <a href="">here</a>
+This Project comes wit MIT License. View it <a href="https://github.com/edwinkim16/Algorithim_assignment/blob/master/License">here</a>
  Edwin Kimathi
   
